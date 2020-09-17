@@ -1,3 +1,6 @@
+    #To implement 8-bit program counter
+    #Question9
+
 
 CHIP PC8bit {
     IN in[8],load,inc,reset;
