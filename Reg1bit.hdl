@@ -1,5 +1,5 @@
-        #To Design a 1-bit registor 
-        #Question2
+        //To Design a 1-bit registor 
+        //Question2
 
 CHIP Reg1bit {
     IN in, load;
