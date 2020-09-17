@@ -1,5 +1,5 @@
-    #To Design Right shift register
-    #Question7
+    //To Design Right shift register
+    //Question7
 
 
 CHIP RSR8bit {
