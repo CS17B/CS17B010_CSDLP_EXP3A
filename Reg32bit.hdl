@@ -1,3 +1,8 @@
+    #To Design a 32-bit registor using four 8-bit registers
+    #question5
+
+
+
 CHIP Reg32bit {
     IN in[32], load;
     OUT out[32];
