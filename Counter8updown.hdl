@@ -1,0 +1,14 @@
+//To design 8-bit counter up/down
+//Question8
+
+CHIP Counter8updown {
+    IN in[8],x;
+    OUT out[8];
+
+    PARTS:
+    Inc8(in=outy,out=oo);
+    Add8(a=outy,b=true,out=oout);
+    Mux8(a=oo,b=oout,sel=x,out=ooo);
+    Reg8bit(in=ooo,load=true,out=out,out=outy);
+   
+}
