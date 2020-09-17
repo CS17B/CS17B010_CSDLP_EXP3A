@@ -1,5 +1,5 @@
-        #To Design a 16-bit registor using two 8-bit registors
-        #Question4
+        //To Design a 16-bit registor using two 8-bit registors
+        //Question4
     
 
 CHIP Reg16bit {
