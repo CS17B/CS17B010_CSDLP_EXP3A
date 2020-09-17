@@ -1,5 +1,5 @@
-    #TO implement up/down counter
-    #Question8
+    //TO implement up/down counter
+    //Question8
 
 
 CHIP Counter8updown {
