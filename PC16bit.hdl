@@ -1,5 +1,5 @@
-#To design 16-bit program counter
-#Question10
+//To design 16-bit program counter
+//Question10
 
 CHIP PC16bit {
     IN in[16],load,inc,reset;
