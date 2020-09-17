@@ -1,5 +1,5 @@
-            #To Design left shift register 
-            #Question6
+            //To Design left shift register 
+            //Question6
 
 
 CHIP LSR8bit {
