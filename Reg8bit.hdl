@@ -1,3 +1,7 @@
+    #To Design a 8-bit registor
+    #question 3
+
+
 CHIP Reg8bit {
     IN in[8], load;
     OUT out[8];
